@@ -1,0 +1,5 @@
+numpy==1.18.0
+open3d==0.9.0.0
+opencv-python==3.4.4.19
+PuLP==2.0
+Shapely==1.6.4.post2
