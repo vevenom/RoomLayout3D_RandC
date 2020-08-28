@@ -1,6 +1,6 @@
 # General 3D Room Layout from a Single View by Render-and-Compare
 
-![Teaser](./images/teaser.png)
+![Teaser](./images/teaser.gif)
 
 By Sinisa Stekovic, Shreyas Hampali, Mahdi Rad, Sayan Deb Sarkar, Friedrich Fraundorfer, Vincent Lepetit
  
